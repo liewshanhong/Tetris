@@ -1,1 +1,1 @@
-To play click [here](liewshanhong@github.io/Tetris)
+To play click [here](https://liewshanhong.github.io/Tetris/)
